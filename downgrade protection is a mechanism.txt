@@ -1,0 +1,3 @@
+downgrade protection is a mechanism to ensure that a system doesn't revert to an older version or a less secure state due to  software update.
+
+Der Downgrade-Schutz ist ein Mechanismus, der sicherstellt, dass ein System aufgrund einer Softwareaktualisierung nicht zu einer älteren Version oder einem weniger sicheren Zustand zurückkehrt.
